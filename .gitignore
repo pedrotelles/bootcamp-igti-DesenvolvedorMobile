@@ -1,15 +1,15 @@
-*/.expo/*
-*/.expo-shared/*
-*/node-modules/*
-*/yarn.lock
+**/**/.expo/*
+**/**/.expo-shared/*
+**/**/node_modules/**
+**/**/yarn.lock
 
-*/*.jks
-*/*.p8
-*/*.p12
-*/*.key
-*/*.mobileprovision
-*/*.orig.*
-*/web-build/
+**/**/*.jks
+**/**/*.p8
+**/**/*.p12
+**/**/*.key
+**/**/*.mobileprovision
+**/**/*.orig.*
+**/**/web-build/
 
 # macOS
 .DS_Store
